@@ -13,10 +13,12 @@ MediWatch is a patient monitoring system designed to support the early detection
 
 ## Dashboard Overview
 
-The MediWatch dashboard includes:
-### Patient Overview
+### 1. Patient Overview
 
 ![Patient Overview](Screenshots/Patient%20Overview.jpeg)
+
+### 2. Clinical Alerts
+![Clinical Alerts](Screenshots/Clinical%20Alerts.jpeg)
   
 ## Technology Stack
 - Python: Core programming language.
