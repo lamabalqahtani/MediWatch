@@ -34,3 +34,30 @@ The current version does not require a physical wearable device.
 
 ## Project Status
 MediWatch is currently under development as a hackathon prototype, with potential for future integration with wearable medical devices and hospital monitoring systems.
+
+
+## Installation & Usage
+
+### 1. Download the Project
+Download the ZIP file containing the demo source code and dataset.
+
+### 2. Extract the ZIP File
+Extract the downloaded ZIP file into your preferred directory.
+
+### 3. Install Dependencies
+
+```bash
+pip install streamlit pandas numpy plotly streamlit-autorefresh streamlit-option-menu
+```
+
+### 4. Run the Application
+
+Navigate to the extracted project folder and run:
+
+```bash
+streamlit run PeDemo.py
+```
+
+### 5. Access the Dashboard
+
+Open the local URL displayed in the terminal (usually `http://localhost:8501`) to access the MediWatch dashboard.
