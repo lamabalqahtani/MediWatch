@@ -19,6 +19,11 @@ MediWatch is a patient monitoring system designed to support the early detection
 
 ### 2. Clinical Alerts
 ![Clinical Alerts](Screenshots/Clinical%20Alerts.jpeg)
+
+### 3. Clinical Analytics
+![Clinical Analytics](Screenshots/Clinical%20Analytics.jpeg)
+
+![Clinical Analytics - Additional View](Screenshots/Clinical%20Analytics2.jpeg)
   
 ## Technology Stack
 - Python: Core programming language.
